@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-演示GIF：<a target="_blank" href="http://apppay.xyz/index/githubimg/zztopayfx/payfx.gif">点击查看</a>
+演示GIF
 --
 
 ![image](http://apppay.xyz.com/index/githubimg/zztopayfx/payfx.gif)
