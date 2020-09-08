@@ -6,10 +6,20 @@
 <br/>
 <br/>
 
-演示GIF
+【版本1】演示GIF
 --
 
-![image](http://apppay.xyz.com/index/githubimg/zztopayfx/payfx.gif)
+![image](https://i.loli.net/2020/09/08/qlrMJxIivCEwyjA.gif)
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+
+【版本2】演示GIF
+--
+
+![image](https://i.loli.net/2020/09/08/pbxyhljGJTRANdi.gif)
 <br/>
 <br/>
 <hr/>
